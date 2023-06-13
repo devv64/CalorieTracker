@@ -1,9 +1,6 @@
 from tkinter import Tk, Label, Button, Entry, messagebox, ttk
-import matplotlib.pyplot as plt
-from matplotlib.font_manager import FontProperties
 import plotly.graph_objects as go
 import plotly.io as pio
-from plotly.subplots import make_subplots
 import plotly.express as px
 from CalorieCalculator import CalorieCalculator
 from FoodDatabase import FoodDatabase
